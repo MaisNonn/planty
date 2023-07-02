@@ -119,7 +119,7 @@ label{
 }
 
 /*Lien admin HOOK*/
-#menu-header :nth-child(1) { order: 1; }
+#main-menu :nth-child(1) { order: 1; }
 #menu-header :nth-child(2) { order: 3; }
 #menu-header :nth-child(3) { order: 2; }
 #menu-header{
